@@ -3,7 +3,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-1.7+-7B42BC?logo=terraform)](https://terraform.io)
 [![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?logo=amazon-aws)](https://aws.amazon.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI/CD](https://github.com/YOUR_USERNAME/aws-terraform-infra/actions/workflows/terraform-plan.yml/badge.svg)](https://github.com/YOUR_USERNAME/aws-terraform-infra/actions)
+[![CI/CD](https://github.com/SeifeddineSAAD/aws-terraform-infra/actions/workflows/terraform-plan.yml/badge.svg)](https://github.com/SeifeddineSAAD/aws-terraform-infra/actions)
 
 > **Production-grade AWS multi-tier architecture** deployed with Terraform IaC.  
 > Designed and maintained by a **PMP + AWS Solutions Architect Associate + Terraform Associate** certified engineer.
