@@ -6,7 +6,7 @@
 [![CI/CD](https://github.com/SeifeddineSAAD/aws-terraform-infra/actions/workflows/terraform-plan.yml/badge.svg)](https://github.com/SeifeddineSAAD/aws-terraform-infra/actions)
 
 > **Production-grade AWS multi-tier architecture** deployed with Terraform IaC.  
-> Designed and maintained by a **PMP + AWS Solutions Architect Associate + Terraform Associate** certified engineer.
+> Designed and maintained by Seifeddine SAAd, a **PMP + AWS Solutions Architect Associate + Terraform Associate** certified engineer.
 
 ---
 
